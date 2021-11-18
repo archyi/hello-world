@@ -1,2 +1,2 @@
 # hello-world
-Testing
+IT-Student on Haaga-Helia University of Applied Siences. Hello.
